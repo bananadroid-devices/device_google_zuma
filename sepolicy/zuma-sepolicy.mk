@@ -30,3 +30,7 @@ PRODUCT_PRIVATE_SEPOLICY_DIRS += device/google/zuma/sepolicy/legacy/private
 SYSTEM_EXT_PUBLIC_SEPOLICY_DIRS += device/google/zuma/sepolicy/legacy/system_ext/public
 SYSTEM_EXT_PRIVATE_SEPOLICY_DIRS += device/google/zuma/sepolicy/legacy/system_ext/private
 
+#Turbo_adapter
+
+
+BOARD_SEPOLICY_DIRS += hardware/google/pixel-sepolicy/turbo_adapter
